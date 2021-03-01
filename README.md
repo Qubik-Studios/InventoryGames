@@ -4,14 +4,17 @@
 <em><h5 align="center">A PaperMC plugin</h5></em>
 
 
-<p align="center">Play the Qubik Client the Right way with the use of our Own Client!</p>
+<p align="center">You want to play a nice friendly Round of TicTacToe
+in Minecraft?
+Inventory Games make this dream possible!
+Currently we have only TicTacToe but more is
+comming soon™</p>
 
 ## Features
 
 * Play Minigames in Minecraft
   * Play a nice friendly round of TicTacToe in Minecraft
 
-This is not an exhaustive list. Download and install the launcher to gauge all it can do!
 
 ## The Commands
 
