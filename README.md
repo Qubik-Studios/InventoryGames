@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="Qubik Client"></p>
+<p align="center"><img src="https://qubik-studios.net/wp-content/uploads/2020/12/ivg-3.png" width="auto" height="150px" alt="Qubik Client"></p>
 
 <h1 align="center">Qubik Launcher</h1>
 
