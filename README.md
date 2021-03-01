@@ -1,19 +1,15 @@
 <p align="center"><img src="https://qubik-studios.net/wp-content/uploads/2020/12/ivg-3.png" width="auto" height="150px" alt="Qubik Client"></p>
 
-<h1 align="center">Qubik Launcher</h1>
 
-<em><h5 align="center">Our fork from the [HeliosLauncher][mainrepo]</h5></em>
+<em><h5 align="center">Play </h5></em>
 <h5 align="center"><img src="https://travis-ci.com/Qubik-Studios/Qubik-Launcher.svg?token=ZzwoacJetFVH55szQXjx&branch=master"></h5>
 
 
 <p align="center">Play the Qubik Client the Right way with the use of our Own Client!</p>
 
-![Screenshot 1](https://qubik-studios.net/wp-content/uploads/2021/02/Qubik-Launcher-03.02.2021-14_03_53.png)
-![Screenshot 2](https://qubik-studios.net/wp-content/uploads/2021/02/Qubik-Launcher-03.02.2021-14_03_59.png)
-
 ## Features
 
-* 🔒 Full account management.
+* Play Minigames in Minecraft
   * Add multiple accounts and easily switch between them.
   * Credentials are never stored and transmitted directly to Mojang.
 * 📂 Efficient asset management.
