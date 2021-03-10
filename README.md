@@ -36,7 +36,6 @@ You can download from [GitHub Releases](https://github.com/Qubik-Studios/Invento
 You may use this software in your own project so long as the following conditions are met.
 
 * Dont resell it as you own Project!
-  * Include a link to the original source on the launcher's About page.
   * Credit the authors and provide a link to the original source in any publications or download pages.
   * Dont make money with that!
 * The source code remain **public** as a fork of this repository.
