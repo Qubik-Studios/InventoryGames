@@ -1,4 +1,4 @@
-<p align="center"><img src="https://qubik-studios.net/wp-content/uploads/2020/12/ivg-3.png" width="auto" height="150px" alt="InventoryGames"></p>
+<p align="center"><img src="https://qubik-studios.net/wp-content/uploads/2021/04/InventoryGames-Banner.png" width="auto" height="150px" alt="InventoryGames"></p>
 <h1 align="center">Inventory Games</h1>
 
 [<p align="center"><img src="https://img.shields.io/github/v/release/Qubik-Studios/InventoryGames?include_prereleases&style=for-the-badge" alt="Current Release">](https://github.com/Qubik-Studios/Qubik-Launcher/releases) [<img src="https://img.shields.io/discord/759767022916599808?label=Discord&style=for-the-badge" alt="Discord">](http://discord.Qubik-Studios.net) [<img src="https://img.shields.io/github/languages/code-size/Qubik-Studios/InventoryGames?style=for-the-badge" alt="Code size">](#) </p>
